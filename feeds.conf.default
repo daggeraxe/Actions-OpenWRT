@@ -11,5 +11,5 @@ src-git small https://github.com/kenzok8/small
 # luci-theme-infinityfreedom
 src-git infinityfreedom https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git
 #luci web file browser
-src-git luci-app-filebrowser https://github.com/giaulo/luci-app-filebrowser.git
+src-git filebrowser https://github.com/giaulo/luci-app-filebrowser.git
 
