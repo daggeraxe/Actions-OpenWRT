@@ -15,5 +15,5 @@ src-git infinityfreedom https://github.com/xiaoqingfengATGH/luci-theme-infinityf
 src-git filebrowser https://github.com/giaulo/luci-app-filebrowser.git
 #src-git nodogsplash https://github.com/nodogsplash/nodogsplash.git
 #src-git kodbox https://github.com/kalcaddle/kodbox.git
-#src-git openconnect https://github.com/openconnect/openconnect.git
+src-git openconnect https://github.com/openconnect/openconnect.git
 
